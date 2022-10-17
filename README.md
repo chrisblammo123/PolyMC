@@ -1,6 +1,5 @@
 <p align="center">
-<img src="./program_info/polymc-header-black.svg#gh-light-mode-only" alt="PolyMC logo" width="50%"/>
-<img src="./program_info/polymc-header.svg#gh-dark-mode-only" alt="PolyMC logo" width="50%"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/b/b0/Transgender_Pride_flag.svg" alt="Trans Rights" width="50%"/>
 </p>
 
 PolyMC is a custom launcher for Minecraft that focuses on predictability, long term stability and simplicity.
